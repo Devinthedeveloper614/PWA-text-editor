@@ -24,7 +24,7 @@ npm start //To start the server locally
 Application is deployed using Heroku and can be accessed using below link,
 
 
-![screenshot](./assets/images/screenshot.png)
+
 
 ## Credits
 https://webpack.js.org/configuration/
