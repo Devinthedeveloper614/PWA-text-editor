@@ -11,8 +11,12 @@ A text editor that runs in the browser. The app is a single-page application tha
  - [Credits](#credits)
  - [License](#license)
  - [Contributor](#contributor)
+ - 
+https://www.loom.com/share/99ef0f24f3c64f34bfaaed9114a63ba1?sid=65be5d88-1b32-40c9-b925-415b7b308f26
 
 ## Installation
+
+
 
 ``` 
 npm install 
